@@ -1,3 +1,5 @@
+> **Important!** This repo is an in progress development for an internal distribution method of tools built for an internal team. The current state of this is experimental and not guarenteed to work without fine tuning or tweaking on a case by case basis per user OR may not be up to date with underlying packages this is meant to provide and support. The underlying tool packages are also in active development. Consider this as a preview of aspirational functionality for now.
+
 # fp-docs
 
 Documentation management system for the Foreign Policy WordPress codebase. fp-docs is a Claude Code plugin that automates the creation, revision, validation, and maintenance of technical documentation by reading your source code directly and keeping docs in sync with every change.
